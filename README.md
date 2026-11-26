@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Shokirjon
+# Hi there 👋, I'm Azizbek
 
 ### I'm A Front-End Developer from Uzbekistan
 
